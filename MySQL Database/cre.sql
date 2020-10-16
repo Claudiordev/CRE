@@ -1,8 +1,3 @@
-﻿# Host: 5.196.71.183  (Version 5.5.62-0+deb8u1)
-# Date: 2020-10-12 22:23:19
-# Generator: MySQL-Front 6.1  (Build 1.26)
-
-
 #
 # Structure for table "faturas"
 #
